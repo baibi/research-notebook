@@ -7,13 +7,12 @@
 
 # Site settings
 title: Research notebook
-email: tim@discontents.com.au
+email: kate.bagnall.com.au
 description: > # this means to ignore newlines until "baseurl:"
   An open research notebook attempting to document my adventures in the world of digital history and beyond.
 baseurl: "/research-notebook" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: wragge
-github_username:  wragge
+twitter_username: baibi
 
 gems:
   - jekyll-gallery-generator

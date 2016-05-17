@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 RAKEFILE
 .DS_Store
+research.sublime-project
+research.sublime-workspace
+.ruby-version
+
